@@ -1,2 +1,3 @@
 new content on branch
-branch2
+master
+branches are cool
