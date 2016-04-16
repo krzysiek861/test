@@ -1,2 +1,4 @@
+New content
 Nowy plik.
+branch3
 I nowa linijka.
