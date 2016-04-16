@@ -1,5 +1,5 @@
 new content on branch
-master
+branch3
 branches are cool
 Maciek jest nachalny.
 Branch 4!
