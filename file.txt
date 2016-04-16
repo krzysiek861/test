@@ -1,5 +1,6 @@
 new content on branch
 branch3
+Nowa zmiana w pliku, a tam gdzieœ mam kanapkê na potem.
 branches are cool
 Maciek jest nachalny.
 Branch 4!
